@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "lib": ["es2017"],
+    "module": "commonjs",
+    "strict": true,
+    "outDir": "",
+    "sourceMap": true,
+    "target": "es2017",
+    "baseUrl": "./"
+  },
+  "compileOnSave": true
+}
